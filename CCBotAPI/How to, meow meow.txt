@@ -1,0 +1,10 @@
+Edit the file "index.js" using notepadd++, or whatever text editor you want
+Change the stuff that says there...
+On f-list, make a new room and paste the code thingy there... (remember to put the "adh" part in lowercase...)
+Once the bot connects, on the room you have to type !loadplugin my_plugin
+This will load the default command... once that's done, use !guide to see an example
+
+Once you're ready to code, open the file plugins/my_plugin.js to see an example
+
+If you have questions, please feel free to ask me! Kenia Nya on f-list!
+Have fun! meow meow~
